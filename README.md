@@ -16,3 +16,18 @@ The flowers dataset has 102 categories of flower images. Each category has 40-25
 
 The images are synthesized using the GAN-CLS Algorithm from the paper [Generative Adversarial Text-to-Image Synthesis](http://arxiv.org/abs/1605.05396). However, we have not used Skip-Thoughts vectors, instead, we tried the implementation using the GloVe embeddings.
 
+
+![Model architecture](images/model.png)
+
+
+
+## Output
+
+
+For the given text :"this flower is purple in color with oval shaped petals"
+
+
+![Model output](images/download.png)
+
+
+
